@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => '',
-	'database' => 'db_sims',
+	'hostname' => 'mysql.hostinger.com',
+	'username' => 'u713668189_mangosims',
+	'password' => 'mangosims',
+	'database' => 'u713668189_db_server',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,

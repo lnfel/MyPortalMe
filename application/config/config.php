@@ -28,8 +28,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://localhost/MyPortalMe';
-//$config['base_url'] = 'http://sims.mangosystemtech.com';
+//$config['base_url'] = '';
+$config['base_url'] = 'http://sims.mangosystemtech.com';
 
 /*
 |--------------------------------------------------------------------------
